@@ -1,0 +1,12 @@
+client server structure
+
+
+client----> request----> server-->response to client
+
+www.google.com-->dnr-->server adress--> server-->response--> send to client
+
+//backend devlopment??
+
+//nodejs--> re-->javascript
+
+express js--> smoth kr deta hai backend devlopment ,ek fremeworks hai ,

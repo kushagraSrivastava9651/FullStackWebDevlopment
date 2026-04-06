@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(48, 47, 47, 0.784);
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+    background-color: black;
+    padding: 20px;
+    border-radius: 7px;
+    width: 70%;
+    max-width: 900px;
+
+
+}
+
+h1{
+    font-size: 1.9rem;
+}
+
+.user-container{
+display: flex;
+flex-direction: column;
+justify-content: start;
+}
+
+.user-input-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#user-input{
+    width: 70%;
+    justify-content: space-between;
+    border-radius: 5px;
+    
+}
+
+#search-button{
+    padding: .4rem;
+     border-radius: 5px;
+}
+
+.circle{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border:4px solid green;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    color: white;
+    font-weight: 700;
+   background: conic-gradient(green var(--progress-degree,0%),gray 0%)
+}
+.progress-container{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    padding: 20px;
+    background-color: rgba(45, 68, 45, 0.616);
+    width: 200px;
+    max-width: 250px;
+    border-radius: 10px;
+    margin: 2rem;
+background-color: orange;
+
+}
+
+h4{
+    font-size: .7rem;
+}
+.stats-card{
+    display: flex;
+  
+    font: .7rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

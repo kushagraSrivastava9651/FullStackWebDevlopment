@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            width:1200px;
+            height: 1200px;
+            background-color: aqua;
+            border: 2px solid gray;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .box{
+            --primary-color:brown;
+            --custom-width:330px;
+            width:var(--custom-width);
+            height: 300px;
+            background-color: green;
+            border: 2px solid gray;
+            overflow: auto;
+            /* box-shadow: 10px -10px brown; */
+            /* box-shadow: 10px 15px 5px gray; */
+            /* box-shadow: 10px 15px 5px 20px gray; */
+             /* box-shadow: inset 15px 15px  purple; */
+             box-shadow: 10px 10px var(--primary-color) , 15px 15px green;
+        }
+        img{
+            width: 300px;
+            height: 200px;
+        }
+        #head1{
+            text-shadow: 2px 3px 2px pink;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <img src="image1.png" alt="hello">
+            <p id="head1">Welcome to code help</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At recusandae a, fugiat voluptas quam non libero ipsa suscipit et quos minima eaque, explicabo odit magni pariatur sequi nisi perspiciatis. Facere officiis hic, laboriosam ipsa quasi ullam sunt, fugit sit veritatis neque, recusandae nulla nostrum sequi omnis pariatur iure magnam obcaecati dolores. Quidem laboriosam dolores labore quasi quisquam, nulla nisi neque mollitia ad atque magni sit cupiditate doloribus asperiores nam eveniet ut fuga dolor aperiam a laudantium iusto voluptas maxime aliquid! Ad at quas placeat labore perspiciatis odio, asperiores aliquam consectetur, in totam magnam laudantium sequi nesciunt beatae, sunt ut earum quia ipsum sapiente! Rem perspiciatis cumque dicta error consectetur, soluta aperiam tenetur aut, molestiae illum maiores vitae laboriosam et? Inventore rerum, illum facere sit sed commodi culpa nesciunt tenetur nulla eos. Ea alias deleniti explicabo aliquam, ut dicta vitae iste amet autem optio cum cumque vero tempora, et illo laudantium expedita, itaque eligendi laboriosam error! Tempore veniam magni aut sed dolore explicabo et aspernatur adipisci, architecto rem obcaecati aliquid necessitatibus porro mollitia autem beatae iure. Esse aut quas fuga doloribus fugiat nobis commodi error explicabo velit quam molestiae odio iure earum possimus facere harum sed doloremque illo quaerat a excepturi, iste cumque? Quas.</p>
+        </div>
+    </div>
+</body>
+</html>

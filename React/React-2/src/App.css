@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 20px;
+    background: #000;
+    border-radius: 2%;
+    border: 2px solid  green;
+}

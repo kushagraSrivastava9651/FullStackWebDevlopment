@@ -1,0 +1,11 @@
+Hook:react functionality used by help of hooks 
+
+
+usestate hook:
+
+component can have state
+
+counter->state-> counte
+
+
+usestate [state variable and state function]

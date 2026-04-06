@@ -1,0 +1,4 @@
+component: is just like function
+
+1- function based component(when we add state managment and hooks in function based component as class then used mostly now )
+2- class based component(as evolve they are not used that much )

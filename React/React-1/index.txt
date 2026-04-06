@@ -1,0 +1,15 @@
+//devlopment process fast
+react:js UI library
+single page application
+component based architecture
+reuse 
+virtual dom 
+
+
+state managment: increment decrement valus
+props: can pass value to other components
+hooks: feature of react
+
+jsx:html+javascript
+
+jsx--> react-->html--> browser display
