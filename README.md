@@ -43,7 +43,7 @@ This repository serves as a complete learning path for web development, featurin
 ## 📁 Project Structure
 
 ```
-LoveBabbar/
+FullStackWebDevlopment/
 ├── html_css/           # HTML and CSS tutorials and projects
 │   ├── lecture5/       # Basic HTML structure
 │   ├── lecture6/       # CSS fundamentals
@@ -96,8 +96,8 @@ Before running any projects, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/LoveBabbar.git
-   cd LoveBabbar
+   git clone https://github.com/kushagraSrivastava9651/FullStackWebDevlopment.git
+   cd FullStackWebDevlopment
    ```
 
 2. **Install root dependencies** (if any)
@@ -183,8 +183,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/your-username/LoveBabbar](https://github.com/your-username/LoveBabbar)
-- **Issues**: [Create an issue](https://github.com/your-username/LoveBabbar/issues)
+- **Project Link**: [https://github.com/kushagraSrivastava9651/FullStackWebDevlopment](https://github.com/kushagraSrivastava9651/FullStackWebDevlopment)
+- **Issues**: [Create an issue](https://github.com/kushagraSrivastava9651/FullStackWebDevlopment/issues)
 
 ---
 
