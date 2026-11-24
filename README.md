@@ -1,8 +1,8 @@
-# 🚀 Web Development Learning Repository
+# Web Development Learning Repository
 
 A comprehensive collection of web development projects and tutorials covering HTML, CSS, JavaScript, React, and Backend development with Node.js, Express, and MongoDB.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Technologies Covered](#technologies-covered)
@@ -16,11 +16,11 @@ A comprehensive collection of web development projects and tutorials covering HT
 - [License](#license)
 - [Contact](#contact)
 
-## 📖 Overview
+## Overview
 
 This repository serves as a complete learning path for web development, featuring hands-on projects and examples across the full stack. From basic HTML/CSS layouts to advanced React applications and backend APIs, this collection provides practical examples and implementations for each technology.
 
-## 🛠️ Technologies Covered
+## Technologies Covered
 
 ### Frontend
 - **HTML5** - Semantic markup and structure
@@ -40,7 +40,7 @@ This repository serves as a complete learning path for web development, featurin
 - **npm/yarn** - Package management
 - **REST APIs** - API design and implementation
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 FullStackWebDevlopment/
@@ -81,7 +81,7 @@ FullStackWebDevlopment/
 └── package.json        # Root dependencies
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -105,7 +105,7 @@ Before running any projects, ensure you have the following installed:
    npm install
    ```
 
-## 💻 Usage
+## Usage
 
 ### HTML/CSS Projects
 Navigate to any `html_css/lecture*/` directory and open the `.html` files in your browser to view the examples.
@@ -138,7 +138,7 @@ Navigate to any `html_css/lecture*/` directory and open the `.html` files in you
    npm run dev
    ```
 
-## 📚 Project Details
+## Project Details
 
 ### HTML/CSS Section
 - **Lectures 5-9**: Fundamental concepts and syntax
@@ -161,7 +161,7 @@ Navigate to any `html_css/lecture*/` directory and open the `.html` files in you
 - **Routing**: RESTful API design patterns
 - **ConnectionMongoDb**: Database integration examples
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -177,17 +177,12 @@ Contributions are welcome! Please follow these steps:
 - Test your changes thoroughly
 - Update documentation as needed
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
+## Contact
 
 - **Project Link**: [https://github.com/kushagraSrivastava9651/FullStackWebDevlopment](https://github.com/kushagraSrivastava9651/FullStackWebDevlopment)
 - **Issues**: [Create an issue](https://github.com/kushagraSrivastava9651/FullStackWebDevlopment/issues)
 
----
-
-⭐ **Star this repo** if you find it helpful!
-
-*Happy Coding! 🎉*
